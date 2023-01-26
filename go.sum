@@ -1,0 +1,10 @@
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/go-faker/faker/v4 v4.0.0 h1:tfgFaeizVlYGOS1tVo/vcWcKhkNgG1NWm8ibRG0f+aQ=
+github.com/go-faker/faker/v4 v4.0.0/go.mod h1:uuNc0PSRxF8nMgjGrrrU4Nw5cF30Jc6Kd0/FUTTYbhg=
+github.com/go-sql-driver/mysql v1.7.0 h1:ueSltNNllEqE3qcWBTD0iQd3IpL/6U+mJxLkazJ7YPc=
+github.com/go-sql-driver/mysql v1.7.0/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/pressly/goose/v3 v3.8.0 h1:t9c6vXn3wEGtkhr30W1uQE+AcY9bj9SQP1gCvoDzZko=
+github.com/pressly/goose/v3 v3.8.0/go.mod h1:+/6BqhGx7bt3cRK22Hm3BsJXF2/2gQAhO/xExNG5cSA=
+golang.org/x/text v0.6.0 h1:3XmdazWV+ubf7QgHSTWeykHOci5oeekaGJBLkrkaw4k=
+golang.org/x/text v0.6.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=

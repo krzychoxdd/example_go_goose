@@ -24,9 +24,9 @@ Step 5
 
 After all you shoud see something like this
 
-``
+```
 cd cmd && go run migrator.go root:1234567@tcp\(0.0.0.0:6603\)/exmpldb?parseTime=true up
 2023/01/26 15:16:37 OK   20230125232556_create_schema.sql (424.66ms)
 2023/01/26 15:16:40 OK   20230126001631_seed_schema.go (17ms)
 2023/01/26 15:16:40 goose: no migrations to run. current version: 20230126001631
-``
+```
